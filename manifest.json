@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Jehuty",
+    "description": "An orbital frame theme for Google Chrome",
+    "version": "1.0",
+    "theme": {
+      "colors": {
+        "frame": [23, 25, 30],
+        "frame_inactive": [23, 25, 30],
+        "frame_incognito": [26, 28, 33],
+        "frame_incognito_inactive": [26, 28, 33],
+        "bookmark_text": [238, 240, 249],
+        "tab_background_text": [133, 139, 152],
+        "tab_background_text_inactive": [81, 87, 109],
+        "tab_background_text_incognito": [238, 240, 249],
+        "tab_background_text_incognito_inactive": [133, 139, 152],
+        "tab_text": [238, 240, 249],
+        "toolbar": [35, 38, 52],
+        "toolbar_button_icon": [75, 243, 200],
+        "omnibox_text": [172, 175, 255],
+        "omnibox_background": [23, 25, 30],
+        "ntp_background": [23, 25, 30],
+        "ntp_link": [75, 243, 200],
+        "ntp_text": [238, 240, 249],
+        "button_background": [35, 38, 52]
+      }
+    }
+  }
+  
